@@ -1,11 +1,3 @@
-/*
-Easy: Utilizing a table with different styles, create an image of the American flag. Use the image 
-provided for the stars.
-Medium: Create a product grid of 2 rows, totaling to a required 8 products. Each product must include a 
-title, price, image and a short description. Have each product link back to its own page on Amazon / 
-Walmart / Target.
- */
-
  table th {
      background-color: white;
      border: solid black;
